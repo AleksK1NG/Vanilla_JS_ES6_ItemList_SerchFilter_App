@@ -1,0 +1,13 @@
+.test_div {
+    width: 400px;
+    height: 200px;
+    background: rgba(11, 220, 228, 0.88);
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-clip: green;
+}
